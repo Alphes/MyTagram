@@ -7,8 +7,9 @@ android {
 
     defaultConfig {
         applicationId "com.example.mytagram"
-        minSdk 24
-        targetSdk 30
+        minSdk 19
+        maxSdk 29
+        targetSdk 24
         versionCode 1
         versionName "1.0"
 
